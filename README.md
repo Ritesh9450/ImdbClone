@@ -92,6 +92,6 @@ Documentation is published automatically when a new Git tag is published. See ou
 
 MIT
 
-## Author
 
-[@mdo](https://github.com/mdo)
+
+
